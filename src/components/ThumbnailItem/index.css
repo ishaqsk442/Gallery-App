@@ -1,0 +1,30 @@
+/* Write your code here. */
+.thumb-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+}
+.thumbnail-button {
+  border-style: none;
+  border-width: 0px;
+  background: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
+.list {
+  border-width: 0px;
+  margin: 10px;
+}
+
+.thumbnail {
+  margin: 5px;
+  width: 90px;
+  height: 90px;
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}
